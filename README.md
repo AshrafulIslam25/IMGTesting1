@@ -13,3 +13,5 @@ tests: Localhost:44355 says
 8. All images loaded in 0.2000000030 ms
 9. All images loaded in 0.0999999940 ms
 10. All images loaded in 0.0999999940 ms
+
+AVG: 0.2099999994 ms
