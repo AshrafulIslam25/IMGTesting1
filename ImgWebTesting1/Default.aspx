@@ -5,7 +5,7 @@
     <div class="row">
         <% for (int i = 0; i < 20; i++) { %>
             <div class="col-md-3" style="margin-bottom: 20px;">
-                <asp:Image runat="server" ID="Image1" AlternateText="image" ImageUrl="~/Images/image001.png" Style="float: left;" Height="64px" />
+                <asp:Image runat="server" ID="Image1" AlternateText="image" ImageUrl="~/Images/image001.webp" Style="float: left;" Height="64px" />
             </div>
         <% } %>
     </div>
@@ -13,7 +13,7 @@
     <div class="row">
         <% for (int i = 0; i < 20; i++) { %>
             <div class="col-md-3" style="margin-bottom: 20px;">
-                <asp:Image runat="server" ID="Image2" AlternateText="image" ImageUrl="~/Images/images.png" Style="float: left;" Height="64px" />
+                <asp:Image runat="server" ID="Image2" AlternateText="image" ImageUrl="~/Images/images.webp" Style="float: left;" Height="64px" />
             </div>
         <% } %>
     </div>
