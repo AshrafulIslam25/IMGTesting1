@@ -94,8 +94,8 @@ WEBP test:
 
 AVG:
 
-🖼️ Image load time: 
-🌐 Full page load time: 
+🖼️ Image load time: 0.210000005364	ms
+🌐 Full page load time: 2664.660000000000 ms
 
 
 
