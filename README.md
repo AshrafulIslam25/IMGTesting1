@@ -1,5 +1,15 @@
 ﻿# IMGTesting1
 
+PNG test: fix dec...
+#1
+Image load time: 0.20 ms
+Full page load time: 8570.40 ms
+
+
+WEBP test:
+
+
+initial test:
 Loaded 40 PNG
 
 tests: Localhost:44355 says
