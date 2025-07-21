@@ -1,8 +1,8 @@
 ﻿# IMGTesting1
 
 PNG test:
-#1
 
+#1
 🖼️ Image load time: 0.300000011921 ms
 🌐 Full page load time: 3604.699999988079 ms
 
