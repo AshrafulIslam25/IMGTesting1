@@ -20,30 +20,53 @@
 
 
     <script type="text/javascript">
-    window.onload = function () {
-        const startTime = performance.now();
-        const images = document.querySelectorAll("img");
-        let loadedCount = 0;
+        const pageStart = performance.timing.navigationStart;
 
-        images.forEach(function (img) {
-            if (img.complete) {
-                loadedCount++;
-                if (loadedCount === images.length) {
-                    const endTime = performance.now();
-                    alert("All images loaded in " + (endTime - startTime).toFixed(10) + " ms");
-                }
-            } else {
-                img.onload = function () {
+        window.onload = function () {
+            const pageEnd = performance.now();
+            const fullPageLoadTime = pageEnd;
+
+            const images = document.querySelectorAll("img");
+            const imageStart = performance.now();
+            let loadedCount = 0;
+
+            images.forEach(function (img) {
+                if (img.complete) {
                     loadedCount++;
                     if (loadedCount === images.length) {
-                        const endTime = performance.now();
-                        alert("All images loaded in " + (endTime - startTime).toFixed(10) + " ms");
+                        const imageEnd = performance.now();
+                        showResults(imageEnd - imageStart, fullPageLoadTime);
                     }
-                };
+                } else {
+                    img.onload = function () {
+                        loadedCount++;
+                        if (loadedCount === images.length) {
+                            const imageEnd = performance.now();
+                            showResults(imageEnd - imageStart, fullPageLoadTime);
+                        }
+                    };
+                }
+            });
+
+            function showResults(imageTime, pageTime) {
+                const message =
+                    "🖼️ Image load time: " + imageTime.toFixed(12) + " ms\n" +
+                    "🌐 Full page load time: " + pageTime.toFixed(12) + " ms";
+
+                // Log to console
+                console.log(message);
+
+                // Show in alert (selectable) ?
+                const textArea = document.createElement("textarea");
+                textArea.value = message;
+                document.body.appendChild(textArea);
+                textArea.select();
+                alert(message);
+                document.body.removeChild(textArea);
             }
-        });
-    };
+        };
     </script>
+
 
 </asp:Content>
 
