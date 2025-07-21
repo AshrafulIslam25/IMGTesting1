@@ -1,12 +1,66 @@
 ﻿# IMGTesting1
 
-PNG test: fix dec...
+PNG test:
 #1
-Image load time: 0.20 ms
-Full page load time: 8570.40 ms
+🖼️ Image load time: 0.300000011921 ms
+🌐 Full page load time: 3604.699999988079 ms
+#2
+🖼️ Image load time: 0.099999994040 ms
+🌐 Full page load time: 2055.599999994040 ms
+#3
+🖼️ Image load time: 0.099999994040 ms
+🌐 Full page load time: 2119.699999988079 ms
+#4
+🖼️ Image load time: 0.299999982119 ms
+🌐 Full page load time: 2150.100000023842 ms
+#5
+🖼️ Image load time: 0.099999994040 ms
+🌐 Full page load time: 2055.800000011921 ms
+#6
+🖼️ Image load time: 0.400000005960 ms
+🌐 Full page load time: 2286.800000011921 ms
+#7
+🖼️ Image load time: 0.100000023842 ms
+🌐 Full page load time: 2259.799999982119 ms
+#8
+🖼️ Image load time: 0.299999982119 ms
+🌐 Full page load time: 2426.300000011921 ms
+#9
+🖼️ Image load time: 0.199999988079 ms
+🌐 Full page load time: 2183.900000005960 ms
+#10
+🖼️ Image load time: 0.199999988079 ms
+🌐 Full page load time: 2040.199999988079 ms
+AVG:
+(0.300000011921 + 0.099999994040 + 0.099999994040 + 0.299999982119 + 0.099999994040 + 0.400000005960 + 0.100000023842 + 0.299999982119 + 0.199999988079 + 0.199999988079) / 10
+🖼️ Image load time: 0.20999999642 ms
+(3604.699999988079 + 2055.599999994040 + 2119.699999988079 + 2150.100000023842 + 2055.800000011921 + 2286.800000011921 + 2259.799999982119 + 2426.300000011921 + 2183.900000005960 + 2040.199999988079) / 10
+🌐 Full page load time: 2318.290000000000 ms
 
 
-WEBP test:
+WEBP test: error not loading
+#1
+
+#2
+
+#3
+
+#4
+
+#5
+
+#6
+
+#7
+
+#8
+
+#9
+
+#10
+
+AVG:
+
 
 
 initial test:
