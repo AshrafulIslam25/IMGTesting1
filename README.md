@@ -50,28 +50,52 @@ AVG:
 🌐 Full page load time: 2318.290000000000 ms
 
 
-WEBP test: error not loading
+WEBP test: 
+
 #1
+🖼️ Image load time: 0.100000023842 ms
+🌐 Full page load time: 4387.000000000000 ms
 
 #2
+🖼️ Image load time: 0.000000000000 ms
+🌐 Full page load time: 2287.200000017881 ms
 
 #3
+🖼️ Image load time: 0.400000005960 ms
+🌐 Full page load time: 2710.700000017881 ms
 
 #4
+🖼️ Image load time: 0.299999982119 ms
+🌐 Full page load time: 2441.600000023842 ms
 
 #5
+🖼️ Image load time: 0.200000017881 ms
+🌐 Full page load time: 2709.900000005960 ms
 
 #6
+🖼️ Image load time: 0.200000017881 ms
+🌐 Full page load time: 2275.500000000000 ms
 
 #7
+🖼️ Image load time: 0.199999988079 ms
+🌐 Full page load time: 2351.800000011921 ms
 
 #8
+🖼️ Image load time: 0.199999988079 ms
+🌐 Full page load time: 2484.599999994040 ms
 
 #9
+🖼️ Image load time: 0.200000017881 ms
+🌐 Full page load time: 2377.899999976158 ms
 
 #10
+🖼️ Image load time: 0.300000011921 ms
+🌐 Full page load time: 2620.399999976158 ms
 
 AVG:
+
+🖼️ Image load time: 0.210000005364	ms
+🌐 Full page load time: 2664.660000000000 ms
 
 
 
