@@ -71,3 +71,4 @@ C:\Users\gt129800\source\repos\ImgWebTesting1\ImgWebTesting1\obj\Debug\ImgWebTes
 C:\Users\gt129800\source\repos\ImgWebTesting1\ImgWebTesting1\obj\Debug\ImgWebTesting1.csproj.CopyComplete
 C:\Users\gt129800\source\repos\ImgWebTesting1\ImgWebTesting1\obj\Debug\ImgWebTesting1.dll
 C:\Users\gt129800\source\repos\ImgWebTesting1\ImgWebTesting1\obj\Debug\ImgWebTesting1.pdb
+C:\Users\gt129800\source\repos\ImgWebTesting1\ImgWebTesting1\obj\Debug\ImgWebTesting1.csproj.AssemblyReference.cache
