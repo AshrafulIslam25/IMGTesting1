@@ -1,6 +1,6 @@
 ﻿# IMGTesting1
 
-PNG test:
+PNG test (Chrome reg):
 
 #1
 🖼️ Image load time: 0.300000011921 ms
@@ -48,6 +48,15 @@ AVG:
 
 (3604.699999988079 + 2055.599999994040 + 2119.699999988079 + 2150.100000023842 + 2055.800000011921 + 2286.800000011921 + 2259.799999982119 + 2426.300000011921 + 2183.900000005960 + 2040.199999988079) / 10
 🌐 Full page load time: 2318.290000000000 ms
+
+PNG test (Chrome ingoc):
+
+PNG test (MS Edge reg):
+PNG test (MS Edge ingoc):
+
+PNG test (FireFox reg):
+PNG test (FF ingoc):
+
 
 
 WEBP test: 
@@ -97,7 +106,13 @@ AVG:
 🖼️ Image load time: 0.210000005364	ms
 🌐 Full page load time: 2664.660000000000 ms
 
+WEBP test (Chrome ingoc):
 
+WEBP test (MS Edge reg):
+WEBP test (MS Edge ingoc):
+
+WEBP test (FireFox reg):
+WEBP test (FF ingoc):
 
 initial test:
 Loaded 40 PNG
