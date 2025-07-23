@@ -51,10 +51,15 @@ AVG:
 
 PNG test (Chrome ingoc):
 
+
 PNG test (MS Edge reg):
+
+
 PNG test (MS Edge ingoc):
 
 PNG test (FireFox reg):
+
+
 PNG test (FF ingoc):
 
 
@@ -109,10 +114,13 @@ AVG:
 WEBP test (Chrome ingoc):
 
 WEBP test (MS Edge reg):
+
 WEBP test (MS Edge ingoc):
 
 WEBP test (FireFox reg):
+
 WEBP test (FF ingoc):
+
 
 initial test:
 Loaded 40 PNG
